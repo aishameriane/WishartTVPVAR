@@ -27,4 +27,4 @@ Repository for the project with the TVP VAR with Wishart StocVol.
 
 ## Organization 
 
-- [ ] Put stuff on Notion
+- [X] Put stuff on Notion
